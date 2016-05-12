@@ -3,3 +3,4 @@ this is a test file, use to learn how to modify/rollback/commit using git
 creating a new branch is quick.
 
 add feature2
+adn add some feature1 too!!!
