@@ -1,3 +1,5 @@
 this is a test file, use to learn how to modify/rollback/commit using git
 
 creating a new branch is quick.
+
+add some feature1
